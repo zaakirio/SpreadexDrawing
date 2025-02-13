@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadexDrawing", "SpreadexDrawing\SpreadexDrawing.csproj", "{A15264E0-F295-4CCF-822D-BB0EA1169379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadexDrawingTest", "SpreadexDrawingTest\SpreadexDrawingTest.csproj", "{0C2DD026-857D-48A1-8C44-9CC2EDDC3007}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadexDrawing.Tests", "SpreadexDrawingTest\SpreadexDrawing.Tests.csproj", "{0C2DD026-857D-48A1-8C44-9CC2EDDC3007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
